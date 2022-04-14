@@ -25,6 +25,7 @@
         <ul>
             <li><a href="#clone-remote-repository">Clone remote repository</a></li>
             <li><a href="#create-workspace">Create a Workspace</a></li>
+            <li><a href="#vscode extensions">Installation of recommended VSCode Extensions</a></li>
         </ul>
         <li><a href="#license"> 📝 License</a></li>
     </ol>
@@ -76,9 +77,9 @@ Before starting, you will need to have the following tools installed on your mac
 
 ![Git](https://img.shields.io/static/v1?label=Git&message=^v2.33.1.windows.1&color=blue&style=flat-square&logo=git)
 
-![GitHub](https://img.shields.io/static/v1?label=GitHub%20Desktop&message=^v2.9.14%20(x64)&color=blue&style=flat-square&logo=github)
+![GitHub](https://img.shields.io/static/v1?label=GitHub%20Desktop&message=^v2.9.14%20x64&color=blue&style=flat-square&logo=github)
 
-![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=^v1.66.2%20(x64)&color=blue&style=flat-square&logo=visual-studio-code)
+![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=^v1.66.2%20x64&color=blue&style=flat-square&logo=visual-studio-code)
 
 <!-- Link to top -->
 <p align="right"><a href="#top">back to top</a></p>
@@ -186,6 +187,27 @@ Check that [VSCode]( https://code.visualstudio.com/) is installed using the comm
 > ![Visual Studio Code](./images/vscode-icon_14px.svg) [**Visual Studio Code**](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity)
 
 In [VSCode]( https://code.visualstudio.com/) open the folder of this repository, and save the Workspace
+
+<!-- Link to top -->
+<p align="right"><a href="#top">back to top</a></p>
+
+</details>
+
+<!-- Used for Table of Contents link -->
+<div id="vscode extensions"></div>
+
+### Installation of recommended VSCode Extensions
+
+<details>
+
+VSCode has [extensions](https://marketplace.visualstudio.com/VSCode) that enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow. In this workspace, the following extensions were added (not mandatory):
+
+1. [**Dracula Official**](https://draculatheme.com/visual-studio-code). A dark theme for many editors, shells, and more
+2. [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme). Get the Material Design icons into your VS Code
+3. [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph). View a Git Graph of your repository, and perform Git actions from the graph
+4. [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+View git log, file history, compare branches or commits
+5. [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint). Markdown linting and style checking for Visual Studio Code
 
 <!-- Link to top -->
 <!-- <p align="right"><a href="#top">back to top</a></p> -->
