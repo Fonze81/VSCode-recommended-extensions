@@ -204,13 +204,39 @@ VSCode has [extensions](https://marketplace.visualstudio.com/VSCode) that enable
 
 <!-- Table -->
 Extension | Decription
---- :|: ---
+--: | :--
 ![Dracula Official](https://img.shields.io/visual-studio-marketplace/v/dracula-theme.theme-dracula?label=Dracula%20Official) | A dark theme for many editors, shells, and more
 ![Material Icon Theme](https://img.shields.io/visual-studio-marketplace/v/PKief.material-icon-theme?label=Material%20Icon%20Theme) | Get the Material Design icons into your VS Code
 ![Git Graph](https://img.shields.io/visual-studio-marketplace/v/mhutchie.git-graph?label=Git%20Graph) | View a Git Graph of your repository, and perform Git actions from the graph
-![Git History](https://img.shields.io/visual-studio-marketplace/v/donjayamanne.githistory?label=Git%20History) | View git log, file history, compare branches or commits
+
 ![markdownlint](https://img.shields.io/visual-studio-marketplace/v/DavidAnson.vscode-markdownlint?label=markdownlint) | Markdown linting and style checking for Visual Studio Code
 ![Badges](https://img.shields.io/visual-studio-marketplace/v/idleberg.badges?label=Badges) | Snippets to quickly insert Shield.io badges into HTML, Markdown, reStructuredText or Textile documents
+
+
+https://img.shields.io/visual-studio-marketplace/v/aaron-bond.better-comments?label=Better%20Comments
+Better Comments
+https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+Improve your code commenting by annotating with alert, informational, TODOs, and more!
+
+https://img.shields.io/visual-studio-marketplace/v/alefragnani.Bookmarks?label=Bookmarks
+Bookmarks
+https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
+Mark lines and jump to them
+
+https://img.shields.io/visual-studio-marketplace/v/GitHub.vscode-pull-request-github?label=GitHub
+GitHub Pull Requests and Issues
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github
+Pull Request and Issue Provider for GitHub
+
+https://img.shields.io/visual-studio-marketplace/v/yzane.markdown-pdf?label=Markdown%20PDF
+Markdown PDF
+https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
+Convert Markdown to PDF
+
+https://img.shields.io/visual-studio-marketplace/v/esbenp.prettier-vscode?label=Prettier%20-%20Code%20formatter
+Prettier - Code formatter
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+Code formatter using prettier
 
 <!-- Link to top -->
 <!-- <p align="right"><a href="#top">back to top</a></p> -->
