@@ -46,6 +46,7 @@ Repository template with a VSCode Workspace and recommended extension list
 ## 🚧 Project Status
 
 **v0.1.0**  Under construction....
+
 **v0.0.0**  Clone repository [GIT repository template v0.1.0](https://github.com/Fonze81/GIT-repository-template/releases/tag/0.1.0)
 
 <!-- Link to top -->
@@ -141,7 +142,7 @@ git status
 
 Downloaded the source code from the [GIT repository template v0.1.0](https://github.com/Fonze81/GIT-repository-template/releases/tag/0.1.0). Unzipped the zip file and copied the contents to the local repository.
 
-Start tracking these files and do an initial commit.
+Start tracking these files and do a initial commit.
 
 ```bash
 git add .
@@ -171,10 +172,23 @@ Open the Github Desktop software, log in, select your local repository (File > A
 <!-- Link to top -->
 <p align="right"><a href="#top">back to top</a></p>
 
+</details>
+
 <!-- Used for Table of Contents link -->
 <div id="create-workspace"></div>
 
 ### Create a Workspace
+
+<details>
+
+Check that [VSCode]( https://code.visualstudio.com/) is installed using the command `code --version`. If it's not installed, [download](https://code.visualstudio.com/docs/?dv=win) and install
+
+> [**Visual Studio Code** <img src="images/logo_VSCode.png" alt="VSCode" height="16"/>](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity)
+
+In [VSCode]( https://code.visualstudio.com/) open the folder of this repository, and save the Workspace
+
+<!-- Link to top -->
+<!-- <p align="right"><a href="#top">back to top</a></p> -->
 
 </details>
 
