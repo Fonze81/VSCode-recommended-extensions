@@ -183,7 +183,7 @@ Open the Github Desktop software, log in, select your local repository (File > A
 
 Check that [VSCode]( https://code.visualstudio.com/) is installed using the command `code --version`. If it's not installed, [download](https://code.visualstudio.com/docs/?dv=win) and install
 
-> [**Visual Studio Code** <img src="images/logo_VSCode.png" alt="VSCode" height="16"/>](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity)
+> ![Visual Studio Code](./images/vscode-icon_14px.svg) [**Visual Studio Code**](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity)
 
 In [VSCode]( https://code.visualstudio.com/) open the folder of this repository, and save the Workspace
 
