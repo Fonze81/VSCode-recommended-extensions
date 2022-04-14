@@ -208,6 +208,7 @@ VSCode has [extensions](https://marketplace.visualstudio.com/VSCode) that enable
 4. [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 View git log, file history, compare branches or commits
 5. [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint). Markdown linting and style checking for Visual Studio Code
+6. [**Badges**](https://marketplace.visualstudio.com/items?itemName=idleberg.badges) ![Badges](https://img.shields.io/visual-studio-marketplace/v/idleberg.badges?label=Badges). Snippets to quickly insert Shield.io badges into HTML, Markdown, reStructuredText or Textile documents
 
 <!-- Link to top -->
 <!-- <p align="right"><a href="#top">back to top</a></p> -->
