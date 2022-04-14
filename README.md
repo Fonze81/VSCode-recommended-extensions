@@ -202,13 +202,29 @@ In [VSCode]( https://code.visualstudio.com/) open the folder of this repository,
 
 VSCode has [extensions](https://marketplace.visualstudio.com/VSCode) that enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow. In this workspace, the following extensions were added (not mandatory):
 
-1. [**Dracula Official**](https://draculatheme.com/visual-studio-code). A dark theme for many editors, shells, and more
-2. [**Material Icon Theme**](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme). Get the Material Design icons into your VS Code
-3. [**Git Graph**](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph). View a Git Graph of your repository, and perform Git actions from the graph
-4. [**Git History**](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+![Dracula Official](https://img.shields.io/visual-studio-marketplace/v/dracula-theme.theme-dracula?label=Dracula%20Official)
+
+A dark theme for many editors, shells, and more
+
+![Material Icon Theme](https://img.shields.io/visual-studio-marketplace/v/PKief.material-icon-theme?label=Material%20Icon%20Theme)
+
+Get the Material Design icons into your VS Code
+
+![Git Graph](https://img.shields.io/visual-studio-marketplace/v/mhutchie.git-graph?label=Git%20Graph)
+
+View a Git Graph of your repository, and perform Git actions from the graph
+
+![Git History](https://img.shields.io/visual-studio-marketplace/v/donjayamanne.githistory?label=Git%20History)
+
 View git log, file history, compare branches or commits
-5. [**markdownlint**](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint). Markdown linting and style checking for Visual Studio Code
-6. [**Badges**](https://marketplace.visualstudio.com/items?itemName=idleberg.badges) ![Badges](https://img.shields.io/visual-studio-marketplace/v/idleberg.badges?label=Badges). Snippets to quickly insert Shield.io badges into HTML, Markdown, reStructuredText or Textile documents
+
+![markdownlint](https://img.shields.io/visual-studio-marketplace/v/DavidAnson.vscode-markdownlint?label=markdownlint)
+
+Markdown linting and style checking for Visual Studio Code
+
+![Badges](https://img.shields.io/visual-studio-marketplace/v/idleberg.badges?label=Badges)
+
+Snippets to quickly insert Shield.io badges into HTML, Markdown, reStructuredText or Textile documents
 
 <!-- Link to top -->
 <!-- <p align="right"><a href="#top">back to top</a></p> -->
