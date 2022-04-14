@@ -2,16 +2,16 @@
 <div id="top"></div>
 
 <!-- Insert badges here. See https://shields.io/ -->
-![GitHub](https://img.shields.io/github/v/tag/Fonze81/GIT-repository-template?style=for-the-badge&logo=github)
-![GitHub](https://img.shields.io/github/release-date/Fonze81/GIT-repository-template?style=for-the-badge&logo=github)
-![GitHub](https://img.shields.io/github/last-commit/Fonze81/GIT-repository-template?style=for-the-badge&logo=github)
-![GitHub](https://img.shields.io/github/commit-activity/m/Fonze81/GIT-repository-template?style=for-the-badge&logo=github)
-![GitHub](https://img.shields.io/github/repo-size/Fonze81/GIT-repository-template?style=for-the-badge&logo=github)
-![GitHub](https://img.shields.io/github/license/Fonze81/GIT-repository-template?style=for-the-badge)
+![GitHub](https://img.shields.io/github/v/tag/Fonze81/VSCode-recommended-extensions?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/release-date/Fonze81/VSCode-recommended-extensions?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/last-commit/Fonze81/VSCode-recommended-extensions?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/commit-activity/m/Fonze81/VSCode-recommended-extensions?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/repo-size/Fonze81/VSCode-recommended-extensions?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/github/license/Fonze81/VSCode-recommended-extensions?style=for-the-badge)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# GIT Repository Template
+# VSCode Recommended Extensions
 
 <details>
     <summary>Table of Contents</summary>
@@ -23,8 +23,8 @@
         <li><a href="#installation"> 🚀 Installation</a></li>
         <li><a href="#step-by-step"> 🚶 Step by step</a></li>
         <ul>
-            <li><a href="#create-local-repository">Create a local repository</a></li>
-            <li><a href="#create-remote-repository">Create a remote repository</a></li>
+            <li><a href="#clone-remote-repository">Clone remote repository</a></li>
+            <li><a href="#create-workspace">Create a Workspace</a></li>
         </ul>
         <li><a href="#license"> 📝 License</a></li>
     </ol>
@@ -35,7 +35,7 @@
 
 ## 📝 About The Project
 
-Repository template to be used as a base for other projects
+Repository template with a VSCode Workspace and recommended extension list
 
 <!-- Link to top -->
 <p align="right"><a href="#top">back to top</a></p>
@@ -45,7 +45,8 @@ Repository template to be used as a base for other projects
 
 ## 🚧 Project Status
 
-**v0.1.0**  Initial release. [Full Changelog](https://github.com/Fonze81/GIT-repository-template/commits/0.1.0)
+**v0.1.0**  Under construction....
+**v0.0.0**  Clone repository [GIT repository template v0.1.0](https://github.com/Fonze81/GIT-repository-template/releases/tag/0.1.0)
 
 <!-- Link to top -->
 <p align="right"><a href="#top">back to top</a></p>
@@ -57,8 +58,10 @@ Repository template to be used as a base for other projects
 
 The following tools were used in building the project.
 
+<!-- For more badges see: https://github.com/Ileriayo/markdown-badges -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!-- Link to top -->
 <p align="right"><a href="#top">back to top</a></p>
@@ -74,6 +77,8 @@ Before starting, you will need to have the following tools installed on your mac
 
 ![GitHub](https://img.shields.io/static/v1?label=GitHub%20Desktop&message=^v2.9.14%20(x64)&color=blue&style=flat-square&logo=github)
 
+![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=^v1.66.2%20(x64)&color=blue&style=flat-square&logo=visual-studio-code)
+
 <!-- Link to top -->
 <p align="right"><a href="#top">back to top</a></p>
 
@@ -85,7 +90,7 @@ Before starting, you will need to have the following tools installed on your mac
 Clone the Github remote repository by running the command
 
 ```bash
-git clone https://github.com/Fonze81/GIT-repository-template
+git clone https://github.com/Fonze81/VSCode-recommended-extensions
 ```
 
 <!-- Link to top -->
@@ -97,9 +102,9 @@ git clone https://github.com/Fonze81/GIT-repository-template
 ## 🚶 Step by step
 
 <!-- Used for Table of Contents link -->
-<div id="create-local-repository"></div>
+<div id="clone-remote-repository"></div>
 
-### Create a local repository
+### Clone remote repository
 
 <details>
 
@@ -124,7 +129,7 @@ git config --global user.email <your-email>
 Go to that project's directory. In the terminal window run the command:
 
 ```bash
-cd C:/Users/user/my_project
+cd C:/Users/user/VSCode-recommended-extensions
 ```
 
 Create a new subdirectory named .git that contains all of your necessary repository files \- a Git repository skeleton. Run the command:
@@ -134,18 +139,12 @@ git init
 git status
 ```
 
-Added the following files to the directory:
-
-* **README.md** - A guide that gives a detailed description of the project.
-* **./images** - A folder with the images that are used in the project
-* **LICENSE** - A file with the project license
+Downloaded the source code from the [GIT repository template v0.1.0](https://github.com/Fonze81/GIT-repository-template/releases/tag/0.1.0). Unzipped the zip file and copied the contents to the local repository.
 
 Start tracking these files and do an initial commit.
 
 ```bash
-git add README.md
-git add images/*
-git add LICENSE
+git add .
 git commit -m 'Initial commit'
 git branch -M main
 ```
@@ -170,7 +169,12 @@ Open the Github Desktop software, log in, select your local repository (File > A
 > ⚠️ Cannot upload directly from Git due to token authentication requirement. See [token authentication requirements for git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 
 <!-- Link to top -->
-<!-- <p align="right"><a href="#top">back to top</a></p> -->
+<p align="right"><a href="#top">back to top</a></p>
+
+<!-- Used for Table of Contents link -->
+<div id="create-workspace"></div>
+
+### Create a Workspace
 
 </details>
 
